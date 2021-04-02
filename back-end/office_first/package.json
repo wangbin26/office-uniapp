@@ -16,15 +16,16 @@
     "i": "^0.3.6",
     "jade": "~1.11.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.12.2",
+    "mongoose": "^5.12.3",
     "morgan": "~1.9.1",
     "mysql": "^2.18.1",
     "node-gyp": "^7.1.2",
     "node-uuid": "^1.4.8",
     "nodemailer": "^6.5.0",
-    "redis": "^3.0.2",
-    "sequelize": "^6.5.1",
+    "redis": "^3.1.0",
+    "sequelize": "^6.6.2",
     "silly-datetime": "^0.1.2",
-    "svg-captcha": "^1.4.0"
+    "svg-captcha": "^1.4.0",
+    "yarn": "^1.22.10"
   }
 }

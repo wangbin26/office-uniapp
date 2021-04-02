@@ -39,5 +39,6 @@ npm install --save
 
 出现如下图的信息说明node项目运行成功
 
-​	![](./.images/start.png)
+​	![](./.images/node_start.png)
 
+前端uniapp项目配置运行参考官网https://uniapp.dcloud.io/
