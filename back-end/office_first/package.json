@@ -25,7 +25,6 @@
     "redis": "^3.0.2",
     "sequelize": "^6.5.1",
     "silly-datetime": "^0.1.2",
-    "svg-captcha": "^1.4.0",
-    "vuex": "^3.6.2"
+    "svg-captcha": "^1.4.0"
   }
 }
