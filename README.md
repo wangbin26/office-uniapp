@@ -3,7 +3,7 @@ Office small program based on uniapp
 
 <h3>使用参考</h3>
 
-​	![](./.images/2021-04-02_21-50.png)
+​	![](.images/2021-04-02_21-50.png)
 
 Front_end为项目前端也就是基于uniapp开发，back-end为后端进入back-end目录会有office_first项目目录，项目使用node-express+mysql+redis实现，下面讲一下后端项目的配置
 
